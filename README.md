@@ -10,7 +10,9 @@ You can view the live project at https://fbpuq1.csb.app/
 
 ### Note
 
-Please let me know if there is anything else that you need or any further questions you have.
+Please let me know if there is anything else that you need or any further questions you have. 
+050-588-4960
+dolev146@gmail.com
 
 
 # Delopment Proccess
@@ -56,8 +58,8 @@ I used this two end points.
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/62290677/215030370-9993cebe-5d78-4b9d-a0cc-181fda6b6037.png)
-![image](https://user-images.githubusercontent.com/62290677/215030410-26f8cff6-201f-4cb9-aa2f-824648d8820a.png)
+![image](https://user-images.githubusercontent.com/62290677/215030721-2afaba61-4937-4cb1-ac91-8679eb8fc970.png)
+![image](https://user-images.githubusercontent.com/62290677/215030834-601472e7-69e3-4199-bcbd-52c62eaf2f64.png)
 ![image](https://user-images.githubusercontent.com/62290677/215030497-c92880d4-e8a4-49d7-b73f-0c3d0a3026b5.png)
 
 

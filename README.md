@@ -14,6 +14,16 @@ Please let me know if there is anything else that you need or any further questi
 050-588-4960
 dolev146@gmail.com
 
+# Table of contents
+
+- [Comparing World Of Rick And Morty](#comparing-world-of-rick-and-morty)
+- [Delopment Proccess](#delopment-proccess)
+  - [API Reference](#api-reference)
+  - [Authors](#authors)
+  - [Demo](#demo)
+  - [Screenshots](#screenshots)
+  - [Tech Stack](#tech-stack)
+
 
 # Delopment Proccess
 

@@ -71,6 +71,3 @@ I used this two end points.
 
 
 
-## Usage/Examples
-
-
